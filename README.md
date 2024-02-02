@@ -14,7 +14,7 @@ About the data: Each unit of observation belongs to a particular individual (48,
 
 The variable income is the response variable.
 
-More information about the dataset, preparation, EDA, Models, and Results is present in the final report and the presentation!
+More information about the dataset, preparation, EDA, Models, and Results is present in the [final report](https://github.com/i3house/Income-Prediction/blob/main/Income%20Classification%20-%20%20Project%20Report.docx) and the [presentation](https://github.com/i3house/Income-Prediction/blob/main/Income%20Classification%20-%20Presentation.pptx)
 
 ### Results
 ![image](https://github.com/i3house/Income-Prediction/assets/1350750/50929f71-b669-46c7-a09c-260959a809d2)
