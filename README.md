@@ -14,3 +14,7 @@ About the data: Each unit of observation belongs to a particular individual (48,
 More information about the dataset it present in the final report and the presentation!
 
 The variable income is the response variable.
+
+### Results
+![image](https://github.com/i3house/Income-Prediction/assets/1350750/50929f71-b669-46c7-a09c-260959a809d2)
+
