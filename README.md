@@ -11,9 +11,10 @@ Objective: To predict whether an individual's income will be greater than $50K (
 This is a project for a Data Mining course at SF State University to learn about various ML models and their applications. The dataset used was the [1994 Census Income](https://archive.ics.uci.edu/dataset/2/adult) dataset from the UCI repository. The data files are also attached here. 
 
 About the data: Each unit of observation belongs to a particular individual (48,842 entries) and consists of categorical data (workclass, education, marital status, occupation, relationship, race, sex, native country, and income) and numerical data (age, number of years of education, capital gain, capital loss, hours per week)
-More information about the dataset it present in the final report and the presentation!
 
 The variable income is the response variable.
+
+More information about the dataset, preparation, EDA, Models, and Results is present in the final report and the presentation!
 
 ### Results
 ![image](https://github.com/i3house/Income-Prediction/assets/1350750/50929f71-b669-46c7-a09c-260959a809d2)
